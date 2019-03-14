@@ -1,0 +1,5 @@
+start
+	create -> $earth$,$var$ = 10 + "hello";
+	shoot -> $var$;
+	get -> $earth$;
+end

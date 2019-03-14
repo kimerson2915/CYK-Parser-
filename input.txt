@@ -1,0 +1,4 @@
+start
+
+	$hello$ = 21;
+end
